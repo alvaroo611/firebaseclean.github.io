@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364563782587",
+    "project_id": "isenecafirebase-4a37f",
+    "storage_bucket": "isenecafirebase-4a37f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364563782587:android:2d09841721f824cc70829e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseclean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLELanYfNLZ8Po_UUya6KWafH5HILh_ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
