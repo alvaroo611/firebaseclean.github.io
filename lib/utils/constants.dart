@@ -1,7 +1,7 @@
 //import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-//cONSTANTS
+//cONSTANT
 class Constants {
   //colors
   static const kPrimaryColor = Color(0xFFFFFFFF);
